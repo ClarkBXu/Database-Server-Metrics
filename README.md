@@ -26,7 +26,8 @@ Database-Server-Metrics.ipynb
 Notebook Output: <br>
 41 Jupyter Notebook cells as described above
 
-## Licensing (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License)
+## Licensing (Creative Commons Attribution-NonCommercial-NoDerivatives)
+4.0 International Public License
 Copyright 2021 Clark Xu
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
@@ -122,4 +123,3 @@ Section 8 – Interpretation.
     To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
     No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
     Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
-
